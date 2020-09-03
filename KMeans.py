@@ -1,7 +1,7 @@
 
 """
 
-@author: ramon, bojana
+@author: Emanuel
 """
 import numpy as np
 import matplotlib.pyplot as plt

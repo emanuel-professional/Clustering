@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: ramon, bojana
+@author: Emanuel
 """
 import re
 import numpy as np
